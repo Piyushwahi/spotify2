@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+h1 {
+    background-color: #232f3e;
+    color: white;
+    padding: 15px;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    background: #ff9900;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.form-container {
+    margin: 50px auto;
+    width: 300px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+input, button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+button {
+    background: #ff9900;
+    border: none;
+    color: white;
+}
